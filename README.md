@@ -113,3 +113,8 @@ You can view the live Power BI dashboard here:
 
 ### Dataset used
 - <a href="https://github.com/GasperMulax2/ElectroHub-Business-Project/blob/main/ElectroHub%20Store%20Data.xlsx">Dataset</a>
+
+## 👨‍💻 Author
+**Gasper Mulamula**  
+Data Analyst | Business Intelligence Enthusiast  
+[LinkedIn](https://www.linkedin.com/in/gasper-mulamula-97766630b) | [GitHub](https://github.com/GasperMulax2/ElectroHub-Business-Project)
