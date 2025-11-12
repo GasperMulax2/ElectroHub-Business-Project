@@ -76,6 +76,34 @@ Multiple visuals were created to represent insights effectively:
 
 This structured process ensured that the **ElectroHub Power BI Dashboard** was both visually engaging and analytically powerful, allowing users to explore data intuitively and make informed decisions.
 
+## 📁 Files Included
+- `Electrohub Business.pbix` — Power BI project file containing the complete dashboard.  
+- `ElectroHub Store Data.xlsx` — Dataset used for analysis and data modeling.  
+- `README.md` — Project documentation.  
+- `ElectroHub Project SS.png` — Folder containing dashboard preview images.  
+
+## 🚀 How to Use
+1. Download the `Electrohub Business.pbix` file.  
+2. Open it using **Power BI Desktop**.  
+3. Load the provided dataset (`ElectroHub Store Data.xlsx`) if prompted.  
+4. Interact with the dashboard using slicers, filters, and visuals to explore insights.  
+
+## 🧰 Tools & Technologies
+- **Microsoft Power BI Desktop**  
+- **Power Query Editor** (for data transformation)  
+- **DAX** (Data Analysis Expressions)  
+- **Excel (.xlsx)** for source data  
+
+## 📊 Results & Key Insights
+- Identified top-performing product categories driving the majority of revenue. (Example: Apple iphone 14 is ranked highest by net sales with 21.4 million INR and has sold the most units with 281 units).
+- Detected cities with the highest and lowest sales performance.  
+- Found that discount levels have a measurable impact on profit margins.  
+- Provided managers with interactive visuals for time-based and regional analysis.  
+
+## 🔮 Future Improvements
+- Integrate real-time data updates through Power BI Service.  
+- Automate monthly reports and email summaries using Power Automate.  
+
 
 ## View Dashboard
 You can view the live Power BI dashboard here:  
