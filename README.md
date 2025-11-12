@@ -1,2 +1,5 @@
-# ElectroHub-Business-Project
-Power BI dashboard for ElectroHub, a retail store selling products across 8 categories. It analyzes sales, profit, quantity, and discounts, showing top/bottom products, time-based trends, city performance, and comparisons between periods to support data-driven decisions.
+# 📊 ElectroHub Power BI Dashboard
+
+## 🏪 Overview
+**ElectroHub** is a small retail store that sells a wide range of products across multiple categories.  
+This Power BI project visualizes key business insights, helping track performance, understand trends, and support data-driven decisions.
