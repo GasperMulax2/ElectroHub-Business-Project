@@ -1,4 +1,4 @@
-# 📊 ElectroHub Power BI Dashboard
+# ElectroHub Power BI Dashboard
 
 ## 🏪 Overview
 **ElectroHub** is a small retail store that sells a wide range of products across multiple categories.  
