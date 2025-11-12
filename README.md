@@ -35,9 +35,12 @@ This Power BI dashboard is designed to answer key business questions, including:
 ## 🧠 Insights
 The dashboard provides ElectroHub’s management with actionable insights into product performance, customer trends, and profitability — enabling smarter inventory and marketing decisions.
 
-## 🔗 View Dashboard
+## View Dashboard
 You can view the live Power BI dashboard here:  
 [🔸 ElectroHub Power BI Dashboard](https://app.powerbi.com/links/5GBuSqNLBM?ctid=a06e9366-d14a-4a15-9642-9f0e11b01cd2&pbi_source=linkShare)
+
+<img width="1716" height="957" alt="ElectroHub Project SS" src="https://github.com/user-attachments/assets/5212e724-5b5a-4ac5-b4cd-bbf0fa49dd52" />
+
 
 ### Dataset used
 - <a href="https://github.com/GasperMulax2/ElectroHub-Business-Project/blob/main/ElectroHub%20Store%20Data.xlsx">Dataset</a>
